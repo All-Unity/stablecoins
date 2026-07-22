@@ -1,0 +1,4 @@
+* @All-Unity/developers
+CODEOWNERS @All-Unity/platform
+.github/ @All-Unity/platform
+helm/ @All-Unity/platform
